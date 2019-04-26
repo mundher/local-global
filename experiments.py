@@ -171,7 +171,7 @@ def expResnet18Trans(data_path):
 
 def print_error():
     print(f'python <model_name> <data_path>')
-    print('here is a list of models names:')
+    print('here is a list of experiments names:')
     for name in experiments.keys():
         print(name)
 

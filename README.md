@@ -3,8 +3,8 @@ Official implementation of [Lung Nodule Classification using Deep Local-Global N
 - PyTorch 1.0
 - Sklearn
 ## Steps to reproduce the results
-- download the pre-processd [dataset](https://drive.google.com/file/d/1yTNnWhsOLB2ElCyo0vahPG3NAyHIYeWx/view?usp=sharing) 
-- extract the dataset to folder
+- download the pre-processd [dataset](https://drive.google.com/file/d/1psFqdDwHF9ueSidoWudxBGZ3BMLjZNRf/view?usp=sharing) 
+- extract the dataset to a folder
 - run `python experiments.py <experiment name> <path to the dataset>`
 
 
